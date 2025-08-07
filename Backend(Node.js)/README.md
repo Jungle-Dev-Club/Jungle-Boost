@@ -35,7 +35,7 @@ NestJS와 같은 최신 프레임워크 학습은 물론, 필수적으로 알고
 - ORM vs Query Builder
 - 모델링과 정규화
 - 트랜잭션과 롤백
-- Isolation Level (Read Uncommitted / Committed / Repeatable Read / Serializable)
+- Isolation Level
 - N+1 문제와 해결 전략
 - 인덱스 기본 개념과 실전 활용
 - NoSQL DB (MongoDB 등)
@@ -88,6 +88,5 @@ NestJS와 같은 최신 프레임워크 학습은 물론, 필수적으로 알고
 
 ---
 
-이 가이드는 Node.js 기반 백엔드 개발자로서  
-단순히 작동하는 서버를 만드는 단계를 넘어,  
+이 가이드는 Node.js 기반 백엔드 개발자로서 단순히 작동하는 서버를 만드는 단계를 넘어,  
 **실무에서 유의미하게 쓰이는 개념과 구조를 이해하고 응용할 수 있는 수준**으로 성장하는 것을 목표로 합니다.
