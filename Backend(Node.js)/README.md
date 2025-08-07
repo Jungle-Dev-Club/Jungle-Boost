@@ -38,6 +38,9 @@ NestJS와 같은 최신 프레임워크 학습은 물론, 필수적으로 알고
 - Isolation Level (Read Uncommitted / Committed / Repeatable Read / Serializable)
 - N+1 문제와 해결 전략
 - 인덱스 기본 개념과 실전 활용
+- NoSQL DB (MongoDB 등)
+- NoSQL과 RDB의 차이점
+- Mongoose / Prisma를 통한 MongoDB 연동
 
 ## 6. 인증과 보안
 - JWT와 세션의 차이
